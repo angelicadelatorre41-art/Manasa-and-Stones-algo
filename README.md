@@ -1,1 +1,1 @@
-# Manasa-and-Stones-algo
+# Manasa-and-Stones-algo The function calculates all possible values of the last stone by considering every combination of a and b steps and storing the unique results in a set. After computing all values, it converts the set to a sorted list and returns it as the final list of possible last stone values.
